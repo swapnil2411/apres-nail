@@ -193,6 +193,7 @@ header{
 	visibility: hidden;
 	opacity: 0;
 	transition: 0.5s ease-in-out all;
+	z-index: 11;
 }
 
 .profile_dropdown.show{
